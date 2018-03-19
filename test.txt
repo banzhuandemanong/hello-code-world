@@ -1,7 +1,10 @@
-胡号 hello world 胡号
 hello world 
+<<<<<<< HEAD
 哈哈哈哈
 呼呼呼
 呼呼呼
 
 
+=======
+哈哈哈哈
+>>>>>>> parent of c98e6a3... Merge pull request #2 from banzhuandemanong/my_new_branch
